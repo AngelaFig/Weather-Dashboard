@@ -9,7 +9,7 @@ Once complete, this application will enable users to find the weather outlook fo
 
 
 ## Usage
-
+Application URL https://angelafig.github.io/Weather-Dashboard/
 
 ![demo of mockup](./assets/demo/06-server-side-apis-homework-demo.png)
 
